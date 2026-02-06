@@ -1006,7 +1006,7 @@ $ chmod 755 exread.sh
 $ ./exread.sh 
 ## OUTPUT
 
-![alt text](<Screenshot from 2026-02-05 00-26-40.png>)
+![alt text](<Screenshot from 2026-02-06 10-31-38.png>)
 
  cat exread1.sh
 ```bash
@@ -1019,7 +1019,7 @@ $ chmod 755 exread1.sh
 
 ## OUTPUT
 
-![alt text](<Screenshot from 2026-02-05 00-31-12.png>)
+![alt text](<Screenshot from 2026-02-06 10-32-01.png>)
 
 $ ./exread1.sh 
  
